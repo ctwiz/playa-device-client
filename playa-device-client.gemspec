@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "A simple hello world gem"
   s.authors     = ["Dan Gailey"]
   s.email       = 'dan@getplaya.com'
-  s.files       = ["lib/playa-device-client.rb"]
+  s.files       = ["lib/playa_device_client.rb"]
   s.homepage    =
     'http://rubygems.org/gems/playa-device-client'
   s.license       = 'MIT'
